@@ -1,0 +1,55 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+h1{
+	font-size: 50px;
+	font-family: "Quattrocento Sans", sans-serif;
+	}
+
+h5, p{
+/*	color: white;
+*/	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+p{
+	font-size: 17px;
+}
+
+#logo-container{
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+footer{
+	font-size: 12px;
+}
+
+ul{
+	font-size: 20px;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+
+body{
+
+	background-image: url("congruent_pentagon.png");
+
+}
+
+
+
+
+
+
